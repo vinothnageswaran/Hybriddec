@@ -1,7 +1,7 @@
 package com.totsy;
 
 /**
- * Hello world!
+ * Hello world! test
  *
  */
 public class App 
